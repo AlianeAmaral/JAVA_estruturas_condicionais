@@ -1,20 +1,20 @@
 import java.util.Scanner;
 
-public class exercicio_2_par_impar {
+public class exercicio_2_par_impar { 
 
 	public static void main(String[] args) {
 	
 	Scanner sc = new Scanner (System.in);
 	
-	System.out.println("Digite um número: ");
+	System.out.println("Digite um nÃºmero: ");
 	int numero = sc.nextInt();
 	
 	if (numero % 2 == 0) {
-		System.out.println("O número digitado foi " + numero + ", um número que é PAR.");
+		System.out.println("O nÃºmero digitado foi " + numero + ", um nÃºmero que Ã© PAR.");
 	}
 	
 	else {
-		System.out.println("O número digitado foi " + numero + " um número que é ÍMPAR.");
+		System.out.println("O nÃºmero digitado foi " + numero + " um nÃºmero que Ã© ÃMPAR.");
 	}
 	
 	sc.close();
