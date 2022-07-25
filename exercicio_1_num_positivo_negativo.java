@@ -6,22 +6,22 @@ public class exercicio_1_num_positivo_negativo {
 	
 	Scanner sc = new Scanner(System.in);
 	
-	System.out.println("Digite um número, podendo ser negativo ou positivo: ");
+	System.out.println("Digite um nÃºmero, podendo ser negativo ou positivo: ");
 	
 	double x = sc.nextDouble();
 	
 	if (x < 0) {
-	System.out.println("O número digitado é NEGATIVO.");	
+	System.out.println("O nÃºmero digitado Ã© NEGATIVO.");	
 	}
 	
 	if (x == 0) {
-	System.out.println("O número digitado é um número neutro, é 0.");	
+	System.out.println("O nÃºmero digitado Ã© um nÃºmero neutro, Ã© 0.");	
 	}
 	
 	else {
-	System.out.println("O número digitado é um número POSITIVO.");
+	System.out.println("O nÃºmero digitado Ã© um nÃºmero POSITIVO.");
 	}
-		
+		 
 	
 	sc.close();
 
