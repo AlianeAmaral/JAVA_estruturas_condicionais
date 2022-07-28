@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio_2_par_impar { 
+public class exercicio_2_par_impar {   
 
 	public static void main(String[] args) {
 	
