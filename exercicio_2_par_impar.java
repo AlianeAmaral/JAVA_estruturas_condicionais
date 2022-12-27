@@ -18,7 +18,6 @@ public class exercicio_2_par_impar {
 	}
 	
 	sc.close();
-
 	}
 
 }
