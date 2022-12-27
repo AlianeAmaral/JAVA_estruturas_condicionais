@@ -13,18 +13,13 @@ public class exercicio_1_num_positivo_negativo {
 	if (x < 0) {
 	System.out.println("O número digitado é NEGATIVO.");	
 	}
-	
 	if (x == 0) {
 	System.out.println("O número digitado é um número neutro, é 0.");	
 	}
-	
 	else {
 	System.out.println("O número digitado é um número POSITIVO.");
 	}
-		 
-	
+		
 	sc.close();
-
 	}
-
 }
