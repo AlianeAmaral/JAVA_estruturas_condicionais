@@ -8,22 +8,19 @@ public class exercicio_3_reconhecer_multiplos {
 	
 	int A, B;
 	
-	System.out.println("Digite um número: ");
+	System.out.println("Digite um nÃºmero: ");
 	A = sc.nextInt();
 	
-	System.out.println("Digite outro número: ");
+	System.out.println("Digite outro nÃºmero: ");
 	B = sc.nextInt();
 	
 	if (A % B == 0 || B % A == 0) {
-		System.out.println("Sim, são números múltiplos.");
+		System.out.println("Sim, sÃ£o nÃºmeros mÃºltiplos.");
 	}
-	
 	else {
-		System.out.println("Não, não são números múltiplos.");
+		System.out.println("NÃ£o, nÃ£o sÃ£o nÃºmeros mÃºltiplos.");
 	}
 	
 	sc.close();
-
 	}
-
 }
