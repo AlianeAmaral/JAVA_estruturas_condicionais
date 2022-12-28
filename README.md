@@ -8,4 +8,4 @@ Sistema informa se o número digitado pelo usuário é positivo, negativo ou neu
 Sistema informa se o número digitado pelo usuário é par ou ímpar.
 
 # exercicio_3_reconhecer_multiplos.java
-Sistema informa se o número digitado pelo usuário é múltiplo ou não.
+Sistema informa se o número e outro digitados pelo usuário são múltiplos ou não.
