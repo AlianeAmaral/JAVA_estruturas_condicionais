@@ -3,3 +3,6 @@ Exercícios de Estruturas Condicionais em JAVA. Realizados com base no conteúdo
 
 # exercicio_1_num_positivo_negativo.java
 Sistema informa se o número digitado pelo usuário é positivo, negativo ou neutro.
+
+# exercicio_2_par_impar.java
+Sistema informa se o número digitado pelo usuário é par ou ímpar.
