@@ -6,3 +6,6 @@ Sistema informa se o número digitado pelo usuário é positivo, negativo ou neu
 
 # exercicio_2_par_impar.java
 Sistema informa se o número digitado pelo usuário é par ou ímpar.
+
+# exercicio_3_reconhecer_multiplos.java
+Sistema informa se o número digitado pelo usuário é múltiplo ou não.
