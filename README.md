@@ -16,4 +16,4 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves.</i>
 
 <h4>📚 exercicio_3_reconhecer_multiplos.java</h4>
 
-<h6>Sistema informa se o número e outro digitados pelo usuário são múltiplos ou não.</h6>
+<h6>Sistema informa se o número e outro digitados pelo usuário são múltiplos ou não. Exercício utilizando Expressões Comparativas e Expressões Lógicas.</h6>
