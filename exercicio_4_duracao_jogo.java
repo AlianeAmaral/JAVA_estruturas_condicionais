@@ -1,5 +1,4 @@
 package estudos_programacao;
-
 import java.util.Scanner;
 
 public class exercicio_4_duracao_jogo {
@@ -14,7 +13,6 @@ public class exercicio_4_duracao_jogo {
 	System.out.println("Qual o horário do fim do jogo, em número inteiro?");
 		int horaFinal = sc.nextInt();
 	
-	
 	int duracaoJogo = 24;
 	
 	if (horaInicial > horaFinal) {
@@ -27,7 +25,6 @@ public class exercicio_4_duracao_jogo {
 			
 	System.out.println("O jogo durou " + duracaoJogo + " hora(s).");
 	
-		sc.close();
-	
+	sc.close();
 	}
 }
