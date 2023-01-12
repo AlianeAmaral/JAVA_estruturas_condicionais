@@ -35,4 +35,4 @@ public class exercicio_8_imposto_de_renda {
 	
 	sc.close();
 	}
-}
+} 
