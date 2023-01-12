@@ -36,4 +36,4 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves.</i>
 
 <h4>📚 exercicio_8_imposto_de_renda.java</h4>
 
-<h6>Sistema coleta o valor de salário do usuário morador de Lisarb. Até R$ 2.000,00 é isento de imposto de renda. Para o valor que estiver de R$ 2.000,00 até R$ 3.000,00 é aplicado 8% de imposto. O que estiver entre R$ 3.000,00 e R$ 4.500,00 é aplicado 18% de imposto. Para o valor que uktrapassa R$ 4.500,00 é aplicado 28% de imposto. Exercício de nível de lógica moderado.</h6>
+<h6>Sistema coleta o valor de salário do usuário morador de Lisarb. Até R$ 2.000,00 é isento de imposto de renda. Para o valor que estiver de R$ 2.000,00 até R$ 3.000,00 é aplicado 8% de imposto. O que estiver entre R$ 3.000,00 e R$ 4.500,00 é aplicado 18% de imposto. Para o valor que ultrapassa R$ 4.500,00 é aplicado 28% de imposto. Exercício de nível de lógica moderado.</h6>
