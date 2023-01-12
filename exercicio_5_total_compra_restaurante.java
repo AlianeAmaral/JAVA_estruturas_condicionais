@@ -47,7 +47,7 @@ public class exercicio_5_total_compra_restaurante {
 		System.out.println("Código Inválido. Digite o código de um produto existente de 1 até 5.");
 	}
 	
-	if (invalido != true) {
+	if (invalido == false) {
 		System.out.printf("Valor total da compra: R$ %.2f %n", total);
 	}
 	
