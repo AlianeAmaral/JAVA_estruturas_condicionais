@@ -1,4 +1,3 @@
-package estudos_programacao;
 import java.util.Scanner;
 
 public class exercicio_5_total_compra_restaurante {
