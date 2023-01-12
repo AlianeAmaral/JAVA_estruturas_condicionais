@@ -30,6 +30,7 @@ public class exercicio_8_imposto_de_renda {
 		double imposto = ((salario - 4500) * 0.28) + (1500 * 0.18) + (1000 * 0.08);
 		System.out.printf("O imposto de renda para esse salarío é: R$ %.2f %n", imposto);
 		// é 1000 com 0.08 e 1500 com 0.18 porque é a diferença entre os 2000 e 3000 anteriores e os 3000 e 4500 anteriores.
+		// ou trocar "else if" por "else" que irá aplicar 28% em cima de qualquer valor que superior a 4500, mantido "else if" para melhor entendimento da lógica.
 	}
 	
 	sc.close();
