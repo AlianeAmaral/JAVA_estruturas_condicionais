@@ -16,9 +16,7 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves.</i>
 
 [📚 exercicio_5_total_compra_restaurante.java](https://github.com/AlianeAmaral/JAVA_estruturas_condicionais/blob/main/exercicio_5_total_compra_restaurante.java)<h6>Sistema coleta o código do item que possui valor e quantidade, é apresentado o valor total da compra.</h6>
 
-<h4>📚 exercicio_6_numero_intervalo.java</h4>
-
-<h6>Sistema verifica em qual intervalo de números se encontra o número digitado pelo usuário.</h6>
+[📚 exercicio_6_numero_intervalo.java](https://github.com/AlianeAmaral/JAVA_estruturas_condicionais/blob/main/exercicio_6_numero_intervalo.java)<h6>Sistema verifica em qual intervalo de números se encontra o número digitado pelo usuário.</h6>
 
 <h4>📚 exercicio_7_coordenadas_quadrante.java</h4>
 
