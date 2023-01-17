@@ -18,9 +18,7 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves.</i>
 
 [📚 exercicio_6_numero_intervalo.java](https://github.com/AlianeAmaral/JAVA_estruturas_condicionais/blob/main/exercicio_6_numero_intervalo.java)<h6>Sistema verifica em qual intervalo de números se encontra o número digitado pelo usuário.</h6>
 
-<h4>📚 exercicio_7_coordenadas_quadrante.java</h4>
-
-<h6>Sistema coleta um número positivo, negativo ou neutro para coordenada X e Y. É respondido de qual posição (quadrante, eixo ou origem) do plano cartesiano que esse ponto se encontra.</h6>
+[📚 exercicio_7_coordenadas_quadrante.java](https://github.com/AlianeAmaral/JAVA_estruturas_condicionais/blob/main/exercicio_7_coordenadas_quadrante.java)<h6>Sistema coleta um número positivo, negativo ou neutro para coordenada X e Y. É respondido de qual posição (quadrante, eixo ou origem) do plano cartesiano que esse ponto se encontra.</h6>
 
 <h4>📚 exercicio_8_imposto_de_renda.java</h4>
 
