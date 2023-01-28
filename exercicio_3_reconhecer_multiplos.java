@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class exercicio_3_reconhecer_multiplos {
 
