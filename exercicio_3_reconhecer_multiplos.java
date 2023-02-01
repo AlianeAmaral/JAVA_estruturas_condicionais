@@ -24,3 +24,4 @@ public class exercicio_3_reconhecer_multiplos {
 	sc.close();
 	}
 }
+ 
