@@ -1,7 +1,7 @@
 <h2 align="center">⚜️ JAVA - Estruturas Condicionais
 <i><h4 align="center">Exercícios de Estruturas Condicionais em JAVA.<br>
 Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves.</i> 
-
+ 
 ## 
 
 [📚 exercicio_1_num_positivo_negativo.java](https://github.com/AlianeAmaral/JAVA_estruturas_condicionais/blob/main/exercicio_1_num_positivo_negativo.java)<h6>Sistema informa se o número digitado pelo usuário é positivo, negativo ou neutro.</h6>
