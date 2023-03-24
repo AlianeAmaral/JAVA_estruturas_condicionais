@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio_4_duracao_jogo {
+public class exercicio_4_duracao_jogo { 
 
 	public static void main(String[] args) {
 	
