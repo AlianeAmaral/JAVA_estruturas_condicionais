@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_7_coordenadas_quadrante {
+public class exercicio_7_coordenadas_quadrante { 
 
 	public static void main(String[] args) {
 
