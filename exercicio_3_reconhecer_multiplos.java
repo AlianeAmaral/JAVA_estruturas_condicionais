@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class exercicio_3_reconhecer_multiplos {
+public class exercicio_3_reconhecer_multiplos {  
 
 	public static void main(String[] args) {
 	
